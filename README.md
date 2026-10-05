@@ -23,8 +23,10 @@
 
 ### 🤖 توسعه و تدوین محتوا با همراهی:
 ![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-* **Claude (Anthropic)** — کمک در تدوین، ساختاردهی و ویرایش نکات آموزشی
+* **Claude (Anthropic)** — کمک در ساختاردهی، تدوین و انسجام مفاهیم
+* **ChatGPT (OpenAI)** — کمک در بازبینی، ویرایش و پردازش نکات آموزشی
 
 ---
 
