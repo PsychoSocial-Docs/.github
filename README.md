@@ -21,6 +21,13 @@
 
 ---
 
+### 🤖 توسعه و تدوین محتوا با همراهی:
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
+
+* **Claude (Anthropic)** — کمک در تدوین، ساختاردهی و ویرایش نکات آموزشی
+
+---
+
 <div align="center">
 
 تهیه شده توسط **مؤسسه عقل و انگیزه**  
